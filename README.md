@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:corruptedxdevil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-corruptedxdevil@gmail.com-F74C00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=26150B" alt="Email"/>
+  <a href="mailto:corrupted-devil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-corrupted.devil@gmail.com-F74C00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=26150B" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/RustyClippy">
@@ -99,22 +99,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma&theme=dark&perline=8" alt="Skill Icons"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GITHUB_STATS-F74C00?style=flat-square&labelColor=26150B&color=26150B" alt="stats"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RustyClippy&show_icons=true&hide_border=true&bg_color=1a0f08&title_color=F74C00&icon_color=FF8A3D&text_color=E8D5C4" alt="Stats"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustyClippy&layout=compact&hide_border=true&bg_color=1a0f08&title_color=F74C00&text_color=E8D5C4" alt="Languages"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=RustyClippy&hide_border=true&bg_color=1a0f08&ring=F74C00&fire=FF8A3D&currStreakLabel=FFB380&currStreakNum=E8D5C4&sideLabels=E8D5C4&sideNums=E8D5C4&dates=E8D5C4" alt="Streak"/>
 </p>
 
 ---
@@ -232,24 +216,6 @@
   <img src="https://img.shields.io/badge/MongoDB-Learning-47A248?style=flat-square&labelColor=26150B" alt="MongoDB"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Rust-someday%20%F0%9F%A6%80-F74C00?style=flat-square&labelColor=26150B" alt="Rust"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CONTRIBUTION_ACTIVITY-F74C00?style=flat-square&labelColor=26150B&color=26150B" alt="activity"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RustyClippy/About-Me/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RustyClippy/About-Me/output/github-contribution-grid-snake.svg" />
-    <img alt="🐍 Snake eating my contribution graph" src="https://raw.githubusercontent.com/RustyClippy/About-Me/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <i>🐍 The snake eats my contribution grid — regenerated daily by GitHub Actions</i>
 </p>
 
 ---
