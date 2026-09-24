@@ -1,70 +1,74 @@
 <p align="center">
   <a href="https://capsule-render.vercel.app">
-    <img width="100%" height="200px" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=RustyLucas&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20AI%2FML%20Curious%20%7C%20Learning%20in%20Public&descAlignY=55&descSize=18"/>
+    <img width="100%" height="200px"
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:21262d&height=280&section=header&text=RustyLucas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%20AI%2FML%20Curious%20%7C%20Learning%20in%20Public&descAlignY=55&descSize=18"
+      alt="RustyLucas header"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=620&lines=Building+real+projects+while+learning+the+fundamentals.%3BStudent+developer+focused+on+web%2C+AI%2C+and+systems.%3BShipping+consistently%2C+documenting+everything." alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%93%8E+It+looks+like+you%27re+trying+to+read+my+profile...%3BLet+me+help+you+with+that+%F0%9F%98%84%3BSmall+student.+Big+dreams.+Always+learning.%3B%F0%9F%A6%80+Learning+in+public%2C+building+and+improving.%3BBuilding+projects+and+learning+how+things+work."
+    alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="mailto:corrupted-devil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-corrupted.devil@gmail.com-0969DA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-corrupted--devil%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/RustyLucas">
-    <img src="https://img.shields.io/badge/GitHub-RustyLucas-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-RustyLucas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=RustyLucas&style=for-the-badge&color=0969DA&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=RustyLucas&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/RustyLucas?style=for-the-badge&color=0969DA&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/RustyLucas?style=for-the-badge&color=58A6FF&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/RustyLucas?style=for-the-badge&color=0969DA&label=STARS&logo=github&logoColor=white" alt="Stars"/>
+  <img src="https://img.shields.io/github/stars/RustyLucas?style=for-the-badge&color=8957E5&label=STARS&logo=github&logoColor=white" alt="Stars"/>
 </p>
 
 > [!NOTE]
-> Actively expanding my skill set — new work shipped regularly. Check back often.
+> 🚧 **This developer is under construction** — learning, building, breaking things, and improving every day.
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ABOUT_ME-0969DA?style=flat-square" alt="about"/>
+  <img src="https://img.shields.io/badge/ABOUT_ME-161B22?style=flat-square" alt="About Me"/>
 </p>
 
 <p align="justify">
-  I'm <strong>RustyLucas</strong>, a student developer with a simple driving question: <em>how do the applications I use every day actually work?</em> That curiosity turned into a habit of building, testing, and refining projects end to end.
+  I'm <strong>RustyLucas</strong> — a student developer who enjoys turning curiosity into real projects. My journey started with a simple question: <em>how do the apps and websites I use every day actually work?</em> That curiosity became a habit of building things, experimenting, fixing bugs, and learning from every project.
 </p>
 
 <p align="justify">
-  I started with the foundations of the web — <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> — and I'm now expanding into <strong>Python</strong>, <strong>AI</strong>, and <strong>Machine Learning</strong>. Every repository on this profile represents a checkpoint in that progression, mistakes included.
+  I started with the foundations of the web — <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong> — and I'm expanding into <strong>Python</strong>, <strong>AI</strong>, and <strong>Machine Learning</strong>. Every repository is part of the learning process: build it, test it, improve it, document it.
 </p>
 
 <p align="justify">
-  My approach is <strong>product-first</strong>: before writing code, I ask whether it solves a real problem for a real user. I study architecture and best practices early so I can scale on solid foundations rather than accumulate technical debt.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OPEN_TO-0969DA?style=flat-square" alt="open to"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Collaboration-0969DA?style=for-the-badge" alt="Collaboration"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open_Source-0969DA?style=for-the-badge" alt="Open Source"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Mentorship-0969DA?style=for-the-badge" alt="Mentorship"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Internships-0969DA?style=for-the-badge" alt="Internships"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Freelance_Projects-0969DA?style=for-the-badge" alt="Freelance"/>
+  I care about writing understandable code, learning good engineering practices, and creating projects that are actually useful. I'm still learning, but I enjoy the process of getting better one project at a time.
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TECH_STACK-0969DA?style=flat-square" alt="tech stack"/>
+  <img src="https://img.shields.io/badge/OPEN_TO-161B22?style=flat-square" alt="Open To"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Collaboration-58A6FF?style=for-the-badge" alt="Collaboration"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_Source-8957E5?style=for-the-badge" alt="Open Source"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mentorship-2EA043?style=for-the-badge" alt="Mentorship"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Learning-8250DF?style=for-the-badge" alt="Learning"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TECH_STACK-161B22?style=flat-square" alt="Tech Stack"/>
 </p>
 
 <h3 align="center">Languages</h3>
@@ -96,15 +100,13 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma&theme=light&perline=8" alt="Skill Icons"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma&theme=dark&perline=8" alt="Skill Icons"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_%2F_ML_JOURNEY-0969DA?style=flat-square" alt="ai ml journey"/>
+  <img src="https://img.shields.io/badge/AI_%2F_ML_JOURNEY-161B22?style=flat-square" alt="AI ML Journey"/>
 </p>
 
 <table align="center">
@@ -112,39 +114,39 @@
     <tr>
       <th align="center">Domain</th>
       <th align="center">Status</th>
-      <th align="center">Details</th>
+      <th align="center">Focus</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center"><strong>Machine Learning Fundamentals</strong></td>
-      <td align="center"><img src="https://img.shields.io/badge/Learning-0969DA?style=flat-square" alt="Learning"/></td>
-      <td align="left">Supervised & unsupervised learning, regression, classification, clustering with scikit-learn</td>
+      <td align="center"><img src="https://img.shields.io/badge/Learning-2EA043?style=flat-square" alt="Learning"/></td>
+      <td align="left">Regression, classification, clustering, and core ML concepts</td>
     </tr>
     <tr>
       <td align="center"><strong>Natural Language Processing</strong></td>
-      <td align="center"><img src="https://img.shields.io/badge/Exploring-0969DA?style=flat-square" alt="Exploring"/></td>
-      <td align="left">Text preprocessing, tokenization, sentiment analysis, transformer concepts</td>
+      <td align="center"><img src="https://img.shields.io/badge/Exploring-58A6FF?style=flat-square" alt="Exploring"/></td>
+      <td align="left">Text processing, tokenization, sentiment analysis, and transformers</td>
     </tr>
     <tr>
-      <td align="center"><strong>Neural Networks & Deep Learning</strong></td>
-      <td align="center"><img src="https://img.shields.io/badge/Exploring-0969DA?style=flat-square" alt="Exploring"/></td>
-      <td align="left">Perceptrons, activation functions, forward/backward propagation with TensorFlow & PyTorch</td>
+      <td align="center"><strong>Neural Networks</strong></td>
+      <td align="center"><img src="https://img.shields.io/badge/Exploring-8957E5?style=flat-square" alt="Exploring"/></td>
+      <td align="left">Neural network fundamentals and deep learning concepts</td>
     </tr>
     <tr>
-      <td align="center"><strong>Data Analysis & Visualization</strong></td>
-      <td align="center"><img src="https://img.shields.io/badge/Learning-0969DA?style=flat-square" alt="Learning"/></td>
-      <td align="left">Pandas, NumPy, Matplotlib, Seaborn for exploratory data analysis</td>
+      <td align="center"><strong>Data Analysis</strong></td>
+      <td align="center"><img src="https://img.shields.io/badge/Learning-2EA043?style=flat-square" alt="Learning"/></td>
+      <td align="left">Python, NumPy, Pandas, and data visualization</td>
     </tr>
     <tr>
       <td align="center"><strong>AI-Powered Applications</strong></td>
-      <td align="center"><img src="https://img.shields.io/badge/Learning-0969DA?style=flat-square" alt="Learning"/></td>
-      <td align="left">Integrating ML models into web apps, chatbot interfaces</td>
+      <td align="center"><img src="https://img.shields.io/badge/Learning-58A6FF?style=flat-square" alt="Learning"/></td>
+      <td align="left">Building useful applications around modern AI models</td>
     </tr>
     <tr>
-      <td align="center"><strong>Prompt Engineering & LLMs</strong></td>
-      <td align="center"><img src="https://img.shields.io/badge/Learning-0969DA?style=flat-square" alt="Learning"/></td>
-      <td align="left">Effective prompts, OpenAI API, RAG pipelines and fine-tuning concepts</td>
+      <td align="center"><strong>LLMs & Prompt Engineering</strong></td>
+      <td align="center"><img src="https://img.shields.io/badge/Learning-8957E5?style=flat-square" alt="Learning"/></td>
+      <td align="left">Prompt design, APIs, RAG concepts, and LLM workflows</td>
     </tr>
   </tbody>
 </table>
@@ -152,117 +154,138 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECTS-0969DA?style=flat-square" alt="projects"/>
+  <img src="https://img.shields.io/badge/PROJECTS-161B22?style=flat-square" alt="Projects"/>
 </p>
 
-<details open>
-<summary><h3>Termux-AI — AI in your terminal</h3></summary>
+<details>
+<summary><h3>📎 Termux-AI — AI in your terminal</h3></summary>
+
 <br>
-  <p align="justify">A terminal-based AI assistant that brings conversational intelligence directly to the Termux environment. A lightweight CLI powered by modern language models, delivering fast, context-aware responses.</p>
-  <p align="justify">Chat with AI, generate and explain code, debug scripts, summarize text, and automate terminal tasks without leaving the command line. Built for developers, students, and CLI users.</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/NLTK-0969DA?style=flat-square" alt="NLTK"/>
-  </p>
+
+A lightweight terminal-based AI assistant designed to bring conversational AI directly into the Termux environment.
+
+**Ideas & capabilities:**
+- 💬 Chat with an AI assistant from the terminal
+- 💻 Generate and explain code
+- 🐛 Help debug scripts and errors
+- 📝 Summarize and transform text
+- ⚙️ Assist with everyday terminal workflows
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+</p>
+
 </details>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MY_JOURNEY-0969DA?style=flat-square" alt="journey"/>
+  <img src="https://img.shields.io/badge/MY_JOURNEY-161B22?style=flat-square" alt="My Journey"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Student_Developer-Learning_by_Building-58A6FF?style=for-the-badge" alt="Student Developer"/>
 </p>
 
 <p align="justify">
-  I practice learning-through-building. Rather than following tutorials passively, I ship a real project for every new concept, carrying it from idea through implementation and documentation. Each repository reflects an intentional engineering decision, not just functional output.
+  I learn best by building. Instead of only following tutorials, I try to turn new concepts into small projects and practical experiments. This helps me understand not just <em>how</em> something works, but <em>why</em> it works.
 </p>
 
-<h4 align="center">What I've Done So Far</h4>
+<h4 align="center">What I'm Working On</h4>
 
 <ul>
-  <li>Designed and built responsive web applications from concept to deployment using HTML, CSS, and JavaScript</li>
-  <li>Explored AI/ML pipelines for text processing, sentiment classification, and summarization using Python</li>
-  <li>Applied data analysis and visualization (Pandas, NumPy, Matplotlib) to derive insights from datasets</li>
-  <li>Followed Git-based workflows with branching strategies and meaningful commit histories</li>
-  <li>Wrote comprehensive README documentation for every project — docs are a first-class deliverable</li>
-  <li>Studied open-source repositories to understand how production-grade codebases are structured</li>
+  <li>Building responsive web applications with HTML, CSS, and JavaScript</li>
+  <li>Learning Python for automation, AI, and data-related projects</li>
+  <li>Exploring AI/ML concepts through practical experiments</li>
+  <li>Improving Git and GitHub workflows</li>
+  <li>Learning how real-world projects are structured and documented</li>
+  <li>Continuously improving my coding and problem-solving skills</li>
 </ul>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-Learning-0969DA?style=flat-square" alt="React.js"/>
+  <img src="https://img.shields.io/badge/React.js-Learning-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-Learning-0969DA?style=flat-square" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Node.js-Learning-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-Learning-0969DA?style=flat-square" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-Learning-0969DA?style=flat-square" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Docker-Learning-0969DA?style=flat-square" alt="Docker"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS-Learning-0969DA?style=flat-square" alt="AWS"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-Learning-0969DA?style=flat-square" alt="TypeScript"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-Learning-0969DA?style=flat-square" alt="MongoDB"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Rust-Planned-0969DA?style=flat-square" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Rust-Curious-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CURRENT_FOCUS-0969DA?style=flat-square" alt="focus"/>
+  <img src="https://img.shields.io/badge/CURRENT_FOCUS-161B22?style=flat-square" alt="Current Focus"/>
 </p>
 
 ```yaml
 learning:
-  - React.js & Next.js for production-grade front-end development
-  - Python for AI/ML — scikit-learn, TensorFlow, and PyTorch
-  - Node.js & Express.js for back-end API development
-  - TypeScript for type-safe JavaScript at scale
-  - Docker for containerization and deployment workflows
+  - React.js and modern front-end development
+  - Python for AI/ML and automation
+  - Node.js for backend fundamentals
+  - TypeScript for safer JavaScript development
+  - Git and GitHub workflows
 
 building:
-  - AI-powered tools with real-world utility (Termux-AI and future projects)
-  - Open source tools for the developer community
-  - A habit of shipping consistently
+  - AI-powered tools
+  - Useful web applications
+  - Open-source experiments
+  - Small projects that turn ideas into working software
 
 exploring:
-  - Large Language Models and prompt engineering techniques
-  - RAG (Retrieval-Augmented Generation) architectures
-  - Cloud infrastructure fundamentals on AWS
-  - System design principles for scalable applications
+  - Large Language Models
+  - Prompt engineering
+  - RAG architectures
+  - AI application development
+  - Cloud and deployment fundamentals
 
 open_to:
-  - Collaborative open source projects
-  - Mentorship from experienced engineers
-  - Internships in software engineering or AI/ML
-  - Code reviews and constructive feedback
+  - Open-source collaboration
+  - Friendly code reviews
+  - Learning from experienced developers
+  - Interesting student-friendly projects
 ```
 
 ---
 
+<details>
+<summary>📎 Bonus: click for a joke</summary>
+
+<br>
+
+Why do programmers prefer dark mode?
+
+Because light attracts bugs 🐛
+
+<br>
+
+There are only two hard things in computer science: cache invalidation and naming things.
+
+</details>
+
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/CONNECT-0969DA?style=flat-square" alt="connect"/>
+  <img src="https://img.shields.io/badge/CONNECT-161B22?style=flat-square" alt="Connect"/>
 </p>
 
 <p align="center">
   <a href="mailto:corrupted-devil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-corrupted.devil@gmail.com-0969DA?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-corrupted--devil%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/RustyLucas">
-    <img src="https://img.shields.io/badge/GitHub-@RustyLucas-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-@RustyLucas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://rustylucas.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-rustylucas.github.io-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-rustylucas.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -270,10 +293,16 @@ open_to:
 
 <p align="center">
   <a href="https://capsule-render.vercel.app">
-    <img width="100%" height="100px" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer-wave"/>
+    <img width="100%" height="100px"
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,100:0d1117&height=100&section=footer"
+      alt="footer-wave"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_with_care_by-RustyLucas-0969DA?style=flat-square" alt="Made by RustyLucas"/>
+  <i>📎 "It looks like you're trying to change the world. Would you like help?"</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with-%F0%9F%92%99_by_RustyLucas-161B22?style=flat-square" alt="Made with love by RustyLucas"/>
 </p>
