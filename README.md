@@ -25,10 +25,6 @@
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=RustyLucas&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/RustyLucas?style=for-the-badge&color=58A6FF&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/RustyLucas?style=for-the-badge&color=8957E5&label=STARS&logo=github&logoColor=white" alt="Stars" />
 </p>
 
 > [!NOTE]
