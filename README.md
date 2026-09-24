@@ -9,8 +9,8 @@
 </p>  
 
 <p align="center">  
-  <a href="mailto:corrupted-devil@gmail.com">  
-    <img src="https://img.shields.io/badge/Email-corrupted.devil@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>  
+  <a href="mailto:corruptedxdevil@gmail.com">  
+    <img src="https://img.shields.io/badge/Email-corruptedxdevil@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>  
   </a>  
   &nbsp;  
   <a href="https://github.com/RustyLucas">  
